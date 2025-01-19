@@ -1,0 +1,29 @@
+//{
+//  "project_info": {
+//    "project_number": "962451842116",
+//    "project_id": "vallicious-b6001",
+//    "storage_bucket": "vallicious-b6001.firebasestorage.app"
+//  },
+//  "client": [
+//    {
+//      "client_info": {
+//        "mobilesdk_app_id": "1:962451842116:android:4f56c95cb605b462f00811",
+//        "android_client_info": {
+//          "package_name": "com.example.vallicious_mart"
+//        }
+//      },
+//      "oauth_client": [],
+//      "api_key": [
+//        {
+//          "current_key": "AIzaSyC7iv3jsTUvpXzIiNuBqmG0fRx_BvtGvuM"
+//        }
+//      ],
+//      "services": {
+//        "appinvite_service": {
+//          "other_platform_oauth_client": []
+//        }
+//      }
+//    }
+//  ],
+//  "configuration_version": "1"
+//}
